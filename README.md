@@ -6,8 +6,12 @@ The dataset labels are imbalanced so upsampling is performed. After upsampling t
 The model is demostrated on streamlit.
 
 To run the file: 
+
 Download dataset
+
 Download pickle files of feature and classifier model.
+
 Download temp.py 
+
 On console run the file : streamlit run temp.py
 

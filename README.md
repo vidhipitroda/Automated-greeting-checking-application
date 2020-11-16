@@ -11,7 +11,7 @@ To run the file:
 
 Download dataset
 
-Download pickle files of feature and classifier model.
+run main.ipynb code and get pickle files
 
 Download temp.py 
 
